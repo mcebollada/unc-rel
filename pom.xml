@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ar.edu.unc</groupId>
-    <artifactId>unc-rela</artifactId>
+    <artifactId>uncrelacion</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>unc-rela</name>
+    <name>uncrelacion</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
