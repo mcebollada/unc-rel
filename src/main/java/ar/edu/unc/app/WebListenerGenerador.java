@@ -35,6 +35,13 @@ public class WebListenerGenerador extends GeneradorListener{
     }
  
 //    @Override
+//    public void contextInitialized(ServletContextEvent sce) {      
+//            super.contextInitialized(sce);
+//         
+//        sce.getServletContext().setSessionTimeout(45); // session timeout in minutes
+//    }
+    
+//    @Override
 //    public void attributeReplaced(HttpSessionBindingEvent sre) {
 //        super.attributeReplaced(sre); //To change body of generated methods, choose Tools | Templates.
 //        
